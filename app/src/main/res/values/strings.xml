@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+    <string name="multiselect">MultiSelect Dialog</string>
+    <string name="list">List Dialog</string>
+    <string name="progress">Progress Dialog</string>
+    <string name="ProgressBar">ProgressBar Dialog</string>
+</resources>
